@@ -8,6 +8,8 @@ int main(){
     int codigo; //Declara uma variável de caractere chamada "codigo"
     float area, PIB; // Declara as variáveis de ponto flutuante chamadas "area" e "PIB"
 
+    printf("Desafio Super Trunfo (Novato)");
+
 
     //Atributos que vão ser armazenados da carta 01//
 
